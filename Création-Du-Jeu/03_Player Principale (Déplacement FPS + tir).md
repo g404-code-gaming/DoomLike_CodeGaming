@@ -7,6 +7,9 @@ Pour cela, nous allons avoir besoin de plusieurs comportements. Les comportement
 >Comportements de déplacement : Ces comportements vont contrôler la vitesse et la direction de notre personnage que l'on developperas dans la partie code.
 >
 >Comportements de tir : Ces comportements vont contrôler la vitesse et la direction des tirs de notre personnage.
+>
+>![comportement PP Tir](Images/ComportementPP.png)
+>
 
 Avant de passer à la partie code, nous devons initialiser certaines variables. Les variables sont comme des boîtes dans lesquelles nous pouvons stocker des informations pour les utiliser plus tard. Voici comment nous initialisons nos variables :
 
@@ -16,6 +19,12 @@ Maintenant que nous avons défini nos comportements et initialisé nos variables
 
 ## Partie 1: le Déplacement 🏃‍♂️
 
+![DeplacementPP](Images/CodeDeplacementPP.png)
+
 ## Partie 2: le Tir 🔫
 
+![CodeShootPP](Images/CodeShootPP.png)
+
 Alors, prêts à donner vie à notre personnage ? Allons-y ! 🚀🎉
+
+[UI avec gestion pv + nombre de balle](https://github.com/g404-code-gaming/DoomLike_CodeGaming/blob/main/Création-Du-Jeu/04_UI%20avec%20gestion%20pv%20%2B%20nombre%20de%20balle.md)

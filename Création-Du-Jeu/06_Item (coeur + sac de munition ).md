@@ -14,6 +14,10 @@ Voici le code que nous allons utiliser :
 
 ![ItemCode](Images/ItemCode.png)
 
+## A toi de joué
+
+Adapte le jeu afin que le jeu puisse être réalisable comme par exemple à la mort de nos ennemis lâcher un item aléatoirement ou non.
+
 Maintenant que nous avons créé des items pour notre personnage, il est temps de passer à la partie des checkbox. C'est comme si on donnait au joueur un interrupteur pour contrôler certaines parties du jeu ! 🎮🔧 Alors, prêts à créer des check boxes pour notre jeu ? Allons-y ! 🚀🎉
 
 [CheckBox](https://github.com/g404-code-gaming/DoomLike_CodeGaming/blob/main/Création-Du-Jeu/07_CheckBox.md)

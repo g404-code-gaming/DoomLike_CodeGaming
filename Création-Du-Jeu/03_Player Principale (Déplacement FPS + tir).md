@@ -23,7 +23,7 @@ Maintenant que nous avons défini nos comportements et initialisé nos variables
 
 ## Partie 2: le Tir 🔫
 
-![CodeShootPP](Images/CodeShootPP.png)
+![CodeShootPP](Images/FireWithoutCount.png)
 
 Alors, prêts à donner vie à notre personnage ? Allons-y ! 🚀🎉
 

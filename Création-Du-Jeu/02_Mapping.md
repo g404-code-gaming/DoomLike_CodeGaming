@@ -36,8 +36,17 @@ Et n'oubliez pas, pour faciliter la construction de votre map, je vous recommand
 
 Maintenant, allons construire notre monde ! 🚀🎉
 
+![Salle1](Images/Salle1.png)
+
 Si vous remarquez que vos objets sont créés dans le sol ou semblent être à la mauvaise hauteur, ne vous inquiétez pas, il y a une solution simple. Vous devrez ajuster le "Z Order" de vos objets. 📏🔧
 
 Le "Z Order" détermine la position d'un objet sur l'axe Z, qui est l'axe de profondeur dans un espace 3D. En ajustant le "Z Order", vous pouvez faire en sorte que vos objets apparaissent plus haut ou plus bas dans votre monde 3D.
 
 N'oubliez pas de faire des tests pour trouver le "Z Order" parfait pour chaque objet. C'est un peu comme ajuster la hauteur d'une chaise pour qu'elle soit confortable. Chaque objet est unique et peut nécessiter un "Z Order" différent. 🪑🔍
+
+![ZOrder](Images/zorder.gif)
+
+Maintenant que nous avons mis en place les bases de notre jeu, il est temps de passer à la phase de notre personnage principal. C'est comme si on mettait notre personnage sous les projecteurs pour lui donner toute l'attention qu'il mérite ! 🎮🌟 Alors, prêts à donner vie à notre personnage principal ? Allons-y ! 🚀🎉
+
+[Player Principale](https://github.com/g404-code-gaming/DoomLike_CodeGaming/blob/main/Création-Du-Jeu/03_Player%20Principale%20(Déplacement%20FPS%20%2B%20tir).md)
+

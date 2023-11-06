@@ -22,7 +22,7 @@ Voici ce qu'on va faire :
 
 Alors, êtes-vous prêts à relever le défi ? Allons-y ! 🚀🎉
 
-![ExempleScreen](Images/ScreenExemple.png)
+![ExempleScreen](Création-Du-Jeu/Images/ScreenExemple.png)
 
 [Mise en place du projet en 3D ](https://github.com/g404-code-gaming/DoomLike_CodeGaming/blob/main/Création-Du-Jeu/01_Mise%20en%20place%20du%20projet%20en%203D.md)
 

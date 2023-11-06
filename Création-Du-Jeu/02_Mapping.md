@@ -38,6 +38,8 @@ Maintenant, allons construire notre monde ! 🚀🎉
 
 ![Salle1](Images/Salle1.png)
 
+![Start](Images/Start.png)
+
 Si vous remarquez que vos objets sont créés dans le sol ou semblent être à la mauvaise hauteur, ne vous inquiétez pas, il y a une solution simple. Vous devrez ajuster le "Z Order" de vos objets. 📏🔧
 
 Le "Z Order" détermine la position d'un objet sur l'axe Z, qui est l'axe de profondeur dans un espace 3D. En ajustant le "Z Order", vous pouvez faire en sorte que vos objets apparaissent plus haut ou plus bas dans votre monde 3D.

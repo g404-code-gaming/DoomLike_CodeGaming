@@ -18,7 +18,7 @@ Maintenant passons au code pour réaliser notre compteur de point de vie! 💔
 
 Maintenant que notre personnage principal est prêt à entrer en scène, il est temps de nous occuper de son arme. Plus précisément, nous allons coder l'affichage du nombre de balles restantes. C'est comme si on donnait à notre personnage un compteur pour qu'il sache combien de balles il lui reste à tout moment ! 🎮🔫 Alors, prêts à coder cet affichage ? Allons-y !
 
-![CodeShoot](Images/FireWithoutCount.png)
+![CodeShoot](Images/CodeShootPP.png)
 
 ![Code actualisation mun](Images/ActualisationMunition.png)
 

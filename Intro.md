@@ -18,5 +18,11 @@ Voici ce qu'on va faire :
 >
 >BossFinal 👑🐲 : Enfin, on crée le boss final du jeu. On programme son comportement, ses attaques spéciales et la manière dont le joueur peut le vaincre. 
 
+[Voici un lien pour l'essayer !!!](https://gd.games/instant-builds/d5483fe9-4fab-40ce-b7e0-37f14c3bb806)
+
 Alors, êtes-vous prêts à relever le défi ? Allons-y ! 🚀🎉
+
+![ExempleScreen](Images/ScreenExemple.png)
+
+[Mise en place du projet en 3D ](https://github.com/g404-code-gaming/DoomLike_CodeGaming/blob/main/Création-Du-Jeu/01_Mise%20en%20place%20du%20projet%20en%203D.md)
 

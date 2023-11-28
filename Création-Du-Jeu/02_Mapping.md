@@ -34,6 +34,8 @@ Si vous n'avez pas d'idée pour votre mapping, ne vous inquiétez pas, j'ai une 
 
 Et n'oubliez pas, pour faciliter la construction de votre map, je vous recommande d'activer la grille dans GDevelop 5. Cela vous aidera à aligner vos objets plus facilement et à créer une map bien organisée. C'est comme construire avec des blocs de Lego, chaque pièce s'emboîte parfaitement ! 🧱🔧
 
+ATTENTION SI VOUS AVEZ UN ÉCRAN NOIR LORS DU TEST !!! Suite à une mise à jour du logiciel de Gdevelop, afin de pouvoir avoir une vue 3D sur votre jeu, il vous faudra créer un nouvel objet appelé "Enable With Three JS" pour que l'extension puisse s'activer.
+
 Maintenant, allons construire notre monde ! 🚀🎉
 
 ![Salle1](Images/Salle1.png)

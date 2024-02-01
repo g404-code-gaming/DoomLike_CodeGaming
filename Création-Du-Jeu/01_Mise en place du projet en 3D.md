@@ -3,6 +3,9 @@
 
 GDevelop 5 n'est pas conçu pour la 3D de base, mais ne vous inquiétez pas, on a une solution ! On va utiliser une bibliothèque de comportements créée par la communauté appelée withThreeJS. Grâce à elle, on peut créer des sprites en 3D à partir de sprites 2D. C'est comme de la magie ! 🎩✨
 
+[Lien pour le télécharger](https://pandako.itch.io/with-threejs-extension-for-gdevelop)
+
+
 Voici les trois comportements que nous allons utiliser :
 
 >Linked 3D camera 🎥 : Ce comportement permet de lier un objet en tant que caméra 3D. C'est comme si on donnait à notre jeu une paire de lunettes 3D !
